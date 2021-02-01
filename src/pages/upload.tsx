@@ -2,7 +2,7 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import { Header, Icon, Segment } from "semantic-ui-react";
 
-// Components
+// components
 import { Upload } from "~components/upload";
 
 export const UploadPage: React.FC = () => (

@@ -7,6 +7,7 @@
 
 ## Running the app
 
+- Duplicate and rename `.env.sample` to `.env` and add the API key provided
 - Run `yarn install` to install project dependencies
 - Once dependencies install, run `yarn start`
 
